@@ -37,4 +37,4 @@ SQLite vs Hive karşılaştırmasını sunan basit PHP paneli. Veriler Flutter u
 ### Güvenlik Notu
 Bu panel demo amaçlıdır; yalnızca basit oturum/parola koruması içerir. Üretimde daha güçlü bir auth ve HTTPS gereklidir.
 
--**Eren Aksoy(1247008012)**
+- **Eren Aksoy (1247008012)**
