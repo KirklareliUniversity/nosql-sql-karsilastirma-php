@@ -1,0 +1,5 @@
+/* Özel tasarımlar için boş bırakıldı. */
+
+.card h3, .card h4, .card h5 {
+    margin: 0;
+}
